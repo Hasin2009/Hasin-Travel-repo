@@ -484,14 +484,5 @@ hr {
   .destination-image .row-second img {
     grid-template-columns: 2 fr;
   }
-
-  
-
-/* tablet or medium devices */
-@media screen and (min-width: 600px) and (max-width: 992px) {
-  .header-section,
-  .item-container{
-    flex-direction: row;
-    justify-content: space-between;
-  }
 }
+  
